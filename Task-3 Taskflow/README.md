@@ -1,24 +1,27 @@
-📝 TaskFlow – One-Page Task Management App Website
+🧩 TaskFlow – One-Page Task Management App Website
+🎯 TaskFlow is a sleek, responsive landing page for a fictional task management app — designed to help users stay organized and productive!
 
-A clean, modern, and fully responsive one-page site for a fictional task app that helps users manage their daily goals and stay productive.
+🚀 Features
+🧠 Hero Section — App name, short message & CTA button
 
-🔧 Built With:
+⚙️ App Features — 3 core benefits with icons & clean descriptions
 
-HTML
+💬 User Testimonials — Real quotes from happy (fictional 😄) users
 
-CSS
+💵 Pricing Plans — Flexible Free, Pro, and Team options
 
-JavaScript
+🔗 Footer — Contact links + social media icons
 
-📌 Page Includes:
-✅ Hero section with app name & CTA
-✅ Feature highlights (with icons)
-✅ Realistic user testimonials
-✅ 3-tier pricing options (Free, Pro, Team)
-✅ Footer with contact info & social media icons
+💻 Tech Stack
+🛠️ HTML5
 
-🎯 Perfect for portfolios, landing page practice, or frontend design inspiration!
+🎨 CSS3
 
-📱 Mobile-first design | 💻 Desktop-ready
-⭐ Don’t forget to ⭐ the repo if you like it!
+🧠 JavaScript (Vanilla)
 
+🌟 Highlights
+✅ Fully responsive (mobile & desktop)
+
+✅ Modern, clean UI design
+
+✅ Great for portfolio use or UI/UX practice
