@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Personal Blog</title>
+  <link rel="stylesheet" href="style.css" />
+  <script defer src="script.js"></script>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>MY PERSONAL BLOG</h1>
+    <p class="tagline">Sharing thoughts, experiences, and ideas</p>
+  </header>
+
+  <!-- Filters & Search -->
+  <section class="controls">
+    <input type="text" id="searchInput" placeholder="🔍 Search by title..." />
+    <select id="categoryFilter">
+      <option value="All">All Categories</option>
+      <option value="Tech">💻 Tech</option>
+      <option value="Travel">✈️ Travel</option>
+      <option value="Food">🍽️ Food</option>
+    </select>
+  </section>
+
+  <!-- Posts Container -->
+  <main id="postContainer" class="post-container"></main>
+
+  <!-- Pagination -->
+  <div class="pagination">
+    <button id="prevBtn">&laquo; Prev</button>
+    <span id="pageIndicator">Page 1</span>
+    <button id="nextBtn">Next &raquo;</button>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 My Personal Blog | Designed with ❤️ by Jahanzaib</p>
+  </footer>
+
+</body>
+</html>
